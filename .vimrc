@@ -5,6 +5,7 @@ set autoread
 set cursorline
 set number
 set numberwidth=4
+set rnu
 set nobomb
 set clipboard+=unnamed
 set splitright
